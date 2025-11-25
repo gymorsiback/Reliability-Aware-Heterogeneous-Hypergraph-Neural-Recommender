@@ -147,8 +147,6 @@ For questions, bug reports, or collaboration inquiries:
 
 ## Acknowledgments
 
-This work was supported by [Your Institution/Funding Source]. We thank [Collaborators/Contributors] for their valuable feedback and support.
-
 Special thanks to the open-source community for providing foundational tools:
 - [PyTorch](https://pytorch.org/) for deep learning framework
 - [DeepHypergraph (DHG)](https://github.com/iMoonLab/DeepHypergraph) for hypergraph utilities
