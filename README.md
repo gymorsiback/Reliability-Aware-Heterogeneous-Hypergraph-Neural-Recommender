@@ -154,5 +154,5 @@ Special thanks to the open-source community for providing foundational tools:
 
 ---
 
-**Last Updated**: November 2024  
-**Version**: 1.0.0
+**Last Updated**: November 2025  
+**Version**: 1.0.6
